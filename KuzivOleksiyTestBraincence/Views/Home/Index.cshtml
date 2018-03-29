@@ -1,0 +1,76 @@
+﻿@model IEnumerable<KuzivOlksiyTestBraincence_Models.Sentence>
+<head>
+  <title>Index</title>
+  <link href="~/Content/UploadConfig.css" rel="stylesheet" />
+</head>
+
+@*<div class="uploadfile">
+    <input type="file" name="file" id="file-5" class="inputfile inputfile-4" style="display:none;" />
+    <label for="file-5">
+      <figure>
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="17" viewBox="0 0 20 17">
+          <path d="M10 0l-5.2 4.9h3.3v5.1h3.8v-5.1h3.3l-5.2-4.9zm9.3 11.5l-3.2-2.1h-2l3.4 2.6h-3.5c-.1 0-.2.1-.2.1l-.8 2.3h-6l-.8-2.2c-.1-.1-.1-.2-.2-.2h-3.6l3.4-2.6h-2l-3.2 2.1c-.4.3-.7 1-.6 1.5l.6 3.1c.1.5.7.9 1.2.9h16.3c.6 0 1.1-.4 1.3-.9l.6-3.1c.1-.5-.2-1.2-.7-1.5z" />
+        </svg>
+      </figure>
+      <span>Choose a file&hellip;</span>
+    </label>
+  </div>
+  <div id="savetext"></div>*@
+
+<form id="uploader">
+  <input class="col-10 btn btn-default" id="fileInput" type="file" multiple>
+  <br />
+  <input type="text" id="word" />
+  <br />
+  <br />
+  <input class="col-10 btn btn-success" type="submit" value="Upload file" />  
+</form>
+
+<br />
+<div id="data" class="row">
+  <div class="col-12 table-responsive">
+
+    <table class="table table-hover">
+      <thead>
+        <tr class="danger">
+          <th>
+            Id
+          </th>
+          <th>
+            SearchWord
+          </th>
+          <th>
+            Date
+          </th>
+          <th>
+            Text
+          </th>
+        </tr>
+      </thead>
+      <tbody id="tableBody">
+        @{ var counter = -1;}
+        @foreach (var item in Model)
+        {
+          counter++;
+          <tr class='@(counter%2==0?"success":"")'>
+            <td>
+              @item.Id
+            </td>
+            <td>
+              @item.SearchWord
+            </td>
+            <td>
+              @item.Date
+            </td>
+            <td>
+              @item.Text
+            </td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<script src="~/Scripts/homeController.js"></script>

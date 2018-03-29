@@ -1,0 +1,6 @@
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.Contracts\bin\Debug\KuzivOleksiyTestBrainence.Contracts.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.Contracts\bin\Debug\KuzivOleksiyTestBrainence.Contracts.pdb
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.Contracts\obj\Debug\KuzivOleksiyTestBrainence.Contracts.csproj.CoreCompileInputs.cache
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.Contracts\obj\Debug\KuzivOleksiyTestBrainence.Contracts.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.Contracts\obj\Debug\KuzivOleksiyTestBrainence.Contracts.pdb
+C:\Users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.Contracts\obj\Debug\KuzivOleksiyTestBrainence.Contracts.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\KuzivOleksiyTestBrainence.DataAcess.dll.config
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\KuzivOleksiyTestBrainence.DataAcess.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\KuzivOleksiyTestBrainence.DataAcess.pdb
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\EntityFramework.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\KuzivOleksiyTestBrainence.Contracts.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\KuzivOlksiyTestBraincence_Models.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\KuzivOleksiyTestBrainence.Contracts.pdb
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\KuzivOlksiyTestBraincence_Models.pdb
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\EntityFramework.xml
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\obj\Debug\KuzivOleksiyTestBrainence.DataAcess.csprojResolveAssemblyReference.cache
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\obj\Debug\KuzivOleksiyTestBrainence.DataAcess.csproj.CoreCompileInputs.cache
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\obj\Debug\KuzivOleksiyTestBrainence.DataAcess.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOleksiyTestBrainence.DataAcess\obj\Debug\KuzivOleksiyTestBrainence.DataAcess.pdb

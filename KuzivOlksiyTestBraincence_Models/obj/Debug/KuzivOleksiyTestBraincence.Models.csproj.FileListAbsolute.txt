@@ -1,0 +1,5 @@
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOlksiyTestBraincence_Models\bin\Debug\KuzivOlksiyTestBraincence_Models.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOlksiyTestBraincence_Models\bin\Debug\KuzivOlksiyTestBraincence_Models.pdb
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOlksiyTestBraincence_Models\obj\Debug\KuzivOleksiyTestBraincence.Models.csproj.CoreCompileInputs.cache
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOlksiyTestBraincence_Models\obj\Debug\KuzivOlksiyTestBraincence_Models.dll
+c:\users\kuziv\source\repos\KuzivOleksiyTestBrainence\KuzivOlksiyTestBraincence_Models\obj\Debug\KuzivOlksiyTestBraincence_Models.pdb
